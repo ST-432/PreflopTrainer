@@ -1,0 +1,3494 @@
+{
+  "2,0,1": [
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 90,
+        "CallFrequency": 0,
+        "FoldFrequency": 10
+      },
+      {
+        "RaiseFrequency": 70,
+        "CallFrequency": 0,
+        "FoldFrequency": 30
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 75,
+        "CallFrequency": 0,
+        "FoldFrequency": 25
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 75,
+        "CallFrequency": 0,
+        "FoldFrequency": 25
+      },
+      {
+        "RaiseFrequency": 60,
+        "CallFrequency": 0,
+        "FoldFrequency": 40
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 0,
+        "FoldFrequency": 75
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 0,
+        "FoldFrequency": 60
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 80,
+        "CallFrequency": 0,
+        "FoldFrequency": 20
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 0,
+        "FoldFrequency": 75
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 0,
+        "FoldFrequency": 75
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 0,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 50,
+        "CallFrequency": 0,
+        "FoldFrequency": 50
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 0,
+        "FoldFrequency": 75
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 0,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 0,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 0,
+        "FoldFrequency": 75
+      }
+    ]
+  ],
+  "6,3,2": [
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 95,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 85,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 70,
+        "CallFrequency": 30,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 85,
+        "FoldFrequency": 0
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 70,
+        "CallFrequency": 30,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 50,
+        "CallFrequency": 50,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 85,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 45,
+        "CallFrequency": 55,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 50,
+        "CallFrequency": 50,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 60,
+        "CallFrequency": 40,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 35,
+        "CallFrequency": 65,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 85,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 50,
+        "FoldFrequency": 50
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 50,
+        "FoldFrequency": 50
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 70,
+        "FoldFrequency": 30
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 5,
+        "FoldFrequency": 95
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 85,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 60,
+        "CallFrequency": 40,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 35,
+        "CallFrequency": 65,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 20,
+        "FoldFrequency": 80
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 95,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 20,
+        "FoldFrequency": 80
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 95,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 65,
+        "FoldFrequency": 35
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 95,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 55,
+        "FoldFrequency": 45
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 45,
+        "FoldFrequency": 55
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 95,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      }
+    ]
+  ],
+  "1,5,3": [
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 50,
+        "CallFrequency": 50,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 60,
+        "FoldFrequency": 15
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 30,
+        "FoldFrequency": 50
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 50,
+        "CallFrequency": 50,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 70,
+        "CallFrequency": 30,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 35,
+        "CallFrequency": 65,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 20,
+        "FoldFrequency": 65
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 0,
+        "FoldFrequency": 85
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 35,
+        "FoldFrequency": 65
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 20,
+        "FoldFrequency": 80
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 35,
+        "FoldFrequency": 65
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 15,
+        "CallFrequency": 70,
+        "FoldFrequency": 15
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 30,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 35,
+        "FoldFrequency": 55
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 25,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 25,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 5,
+        "CallFrequency": 50,
+        "FoldFrequency": 45
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 30,
+        "FoldFrequency": 70
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 55,
+        "FoldFrequency": 45
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 80,
+        "FoldFrequency": 20
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 75,
+        "FoldFrequency": 25
+      }
+    ]
+  ],
+  "6,5,4": [
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 30,
+        "CallFrequency": 70,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 70,
+        "CallFrequency": 30,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 100,
+        "CallFrequency": 0,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 40,
+        "CallFrequency": 60,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 10,
+        "CallFrequency": 90,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 20,
+        "CallFrequency": 80,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 90,
+        "CallFrequency": 10,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 70,
+        "CallFrequency": 30,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 25,
+        "CallFrequency": 75,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 100,
+        "FoldFrequency": 0
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ],
+    [
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      },
+      {
+        "RaiseFrequency": 0,
+        "CallFrequency": 0,
+        "FoldFrequency": 100
+      }
+    ]
+  ]
+}

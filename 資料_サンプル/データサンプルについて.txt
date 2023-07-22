@@ -1,0 +1,7 @@
+それぞれのアクション頻度を保存しているファイルになります。
+一度アプリ立ち上げ後「レンジの入力」をクリックして画面遷移後左上のドロップダウンを「UTG」に、
+真ん中下段のドロップダウンを「Open」二設定して保存ボタンを押下します。
+保存場所にdata.jsonが作られるためdata_Sample.jsonをdata.jsonに書き換え保存場所にあるファイルと差し替えてください。
+保存場所はpersistentDataPathで指定しているため環境ごとに違います。
+https://docs.unity3d.com/ja/2022.2/ScriptReference/Application-persistentDataPath.html
+を参考にしてください。
